@@ -1,3 +1,14 @@
+/*
+Name: Etelson Alcius
+
+Purpose: to calculate a person's BMI based on their height and weight.
+It provides a simple way for users to calculate their BMI using either the imperial or metric system.
+The program utilizes a graphical user interfacr provided by the javax.swing package to interact with the user and 
+display the results.
+
+Last updated: 07/06/2023
+*/
+
 import javax.swing.JOptionPane;
 
 public class BMIwithGUI {
